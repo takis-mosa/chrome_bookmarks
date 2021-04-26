@@ -9,3 +9,5 @@ Schrijf drie functies:
 
 
 Zorg dat alle testen slagen.
+
+Succes!
